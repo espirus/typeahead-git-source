@@ -51,9 +51,9 @@ class AsyncPaginationExample extends React.Component {
               alt={option.login}
               src={option.avatar_url}
               style={{
-                height: '34px',
+                height: '60px',
                 marginRight: '20px',
-                width: '24px',
+                width: '60px',
               }}
             />
             <span>{option.login}</span>
